@@ -4,5 +4,5 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of ScriptsR is to ... TESTE
+Repositório para os scripts utlizados para estudo.
 
